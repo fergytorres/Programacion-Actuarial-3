@@ -1,0 +1,36 @@
+---
+title: ""
+author: "María Fernanda Díaz Torres"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Otoño 2015
+
+ * Programación Actuarial                  `9`
+ * Matemáticas Básicas                     `6`
+ * Problemas de Matemáticas Básicas        `6`
+ * Conceptos de Cálculo                    `9`
+ * DHPC                                   `6`
+ * Introducción a la Profesión Actuarial   `8`
+
+### Primavera 2016
+
+ * Programación Actuarial II                  `5`
+ * Teoría del Interés I                `7`
+ * Geometría Analítica        `10`
+ * Cálculo Diferencial                  `7`
+ * Lengua Extranjera I                                   `8`
+
+### Otoño 2016
+
+ * Programación Actuarial II                  `7`
+ * Teoría de Ecuaciones                `8`
+ * Teoría del Interés II        `8`
+ * Lengua Extranjera II                                   `8`
+ * Microeconomía   `8`
+
